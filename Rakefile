@@ -12,3 +12,16 @@ namespace :build do
     sh 'pandoc cv.md -o cv/cv.docx'
   end
 end
+
+desc 'Deploy gh-page'
+task :deploy do
+  sh 'git checkout gh-pages'
+  sh 'git rebase origin/master'
+  Rake::Task['build:html'].invoke
+  sh 'rm index.html' if File.exists? 'index.html'
+  sh 'cp cv/cv.html index.html'
+  sh 'git add .'
+  sh "git commit -m 'Deploy #{Time.now.to_i}'"
+  sh 'git push origin gh-pages'
+  sh 'git checkout master'
+end

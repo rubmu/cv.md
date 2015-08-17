@@ -1,3 +1,17 @@
+# Giovanni Lodi
+## iOS Testing and Automation Consultant
+
+- Melbourne, Australia
+- [giovanni.lodi42gmail.com](mailto:giovanni.lodi42+cv@gmail.com)
+- [http://giovannilodi.com](http://giovannilodi.com)
+- +61 0467 041 198
+
+
+<!-- Need double new line to generate two lists nodes -->
+- GitHub: [mokagio](https://github.com/mokagio)
+- Twitter: [@makagio](https://twitter.com/mokagio)
+- Blog: [mokagio](http://mokacoding.com)
+
 ## Experience
 
 ### iOS Consultant, specialised in testing and automated infrastructures (09/2014 - Present, Melbourne AU and remotely)

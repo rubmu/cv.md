@@ -64,16 +64,17 @@ h1 {
 h2 {
     font-size: 24px;
 }
-h2:not(:first-child) {
+h2:not(:first-of-type) {
     margin-top: 2em;
+    margin-bottom: 1em;
 }
 h3 {
     font-size: 18px;
-    margin-top: 1.4em;
+    margin-top: 3em;
     margin-bottom: 1em;
 }
-h3:not(:first-child) {
-    margin-top: 3em;
+h2 + h3 {
+    margin-top: 1.4em;
 }
 h4 {
     font-size: 16px;
@@ -160,24 +161,15 @@ sup {
 ul {
   margin-top: 0;
 }
-ul#right {
+ul:nth-of-type(1),
+ul:nth-of-type(2) {
   text-align: right;
   list-style: none;
+}
+ul p {
+  margin: 0;
 }
     </style>
   </head>
 
   <body>
-    <h1>Giovanni Lodi</h1>
-    <h2 style="margin-top: 0;">iOS Testing and Automation Consultant</h2>
-
-    <ul style="list-style: none; text-align: right">
-      <li>Melbourne, Australia</li>
-      <li><a href="mailto:giovanni.lodi42+cv@gmail.com">giovanni.lodi42@gmail.com</a></li>
-      <li><a href="http://giovannilodi.com">http://giovannilodi.com</a></li>
-      <li>+61 0467 041 198</li>
-      <li><!-- empty space -->&nbsp;</li>
-      <li>GitHub: <a href="https://github.com/mokagio">mokagio</a></li>
-      <li>Twitter: <a href="https://twitter.com/mokagio">@mokagio</a></li>
-      <li>Blog: <a href="http://mokacoding.com">mokacoding</a></li>
-    </ul>

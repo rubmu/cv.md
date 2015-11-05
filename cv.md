@@ -20,13 +20,14 @@ Assisting organizations of all sizes, from startups to enterprise agencies, in d
 
 #### Top Clients
 
+- [Itty Bitty Apps](http://www.ittybittyapps.com/), mobile agency. Reference: [Sean Woodhouse](mailto:sean@ittybittyapps.com), Managing Director
 - [jTribe](http://jtribe.com.au/), mobile agency. Reference: [Armin Kroll](mailto:armin@jtribe.com.au), CEO
-- [Odecee](http://odecee.com.au/), enterprise agency. Reference: [Ashton Williams](mailto:ajwilliams@odecee.com.au), colleague
+- [Odecee](http://odecee.com.au/), enterprise agency. Reference: [Ashton Williams](mailto:ajwilliams@odecee.com.au), Colleague
 - [CoinJar](https://www.coinjar.com/), BitCoin startup. Reference: [Asher Tan](mailto:asher@coinjar.com), CEO
 
 ### iOS Lead at [BIZZBY](http://bizzby.com/) (11/2013 - 08/2014, London UK)
 
-Maintaining the legacy codebase of the [BIZZBY iOS App](https://itunes.apple.com/gb/app/bizzby-on-demand-services/id659352778), focusing of refacktoring, and adding test coverage, alongside new features development.
+Maintaining the legacy codebase of the [BIZZBY iOS App](https://itunes.apple.com/gb/app/bizzby-on-demand-services/id659352778), focusing of refactoring, and adding test coverage, alongside new features development.
 
 Developing a second app distributed through enterprise distribution to service providers of the BIZZBY platform. This app had very fast release cycles up to 1 release per day.
 
@@ -46,7 +47,7 @@ Built a small backend for the content delivery hosted on [Heroku](https://www.he
 #### References
 
 - [ed@memrise.com](mailto:ed@memrise.com), Ed Cooke, CEO
-- [tancredi.trugenberger@gmail.com](mailto:tancredi.trugenberger@gmail.com), Tancredi Trugenberger, colleague
+- [tancredi.trugenberger@gmail.com](mailto:tancredi.trugenberger@gmail.com), Tancredi Trugenberger, Colleague
 
 ### Frontend Developer at [Kunerango](https://kunerango.com/) (10/2011 - 07/2012, Ferrara IT)
 
@@ -73,7 +74,7 @@ Mainly worked on the development of a WebGIS application, both on the frontend a
 
 ### Indie iOS and Android Developer (10/2010 - Ongoing)
 
-Released several indipendent apps for App Store and Google Play, taking care of design and development. The most relevant:
+Released several independent apps for App Store and Google Play, taking care of design and development. The most relevant:
 
 - [Fineants](https://itunes.apple.com/au/app/fineants-saving-goals-tracker/id888444078?mt=8) iOS savings tracker
 - [World Clock Widget](https://itunes.apple.com/au/app/world-clock-widget/id963850818?mt=8) iOS today widget showing configurable world clocks

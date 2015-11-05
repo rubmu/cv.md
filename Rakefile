@@ -22,7 +22,7 @@ end
 desc 'Deploy gh-page'
 task :deploy do
   sh 'git checkout gh-pages'
-  sh 'git rebase origin/master'
+  sh 'git merge origin/master'
   Rake::Task['build:html'].invoke
   sh 'rm index.html' if File.exists? 'index.html'
   sh 'cp cv/cv.html index.html'

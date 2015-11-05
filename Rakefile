@@ -11,6 +11,12 @@ namespace :build do
   task :docx do
     sh 'pandoc cv.md -o cv/cv.docx'
   end
+
+  desc 'Build all the CV downloadable versions'
+  task :all do
+    Rake::Task['build:html'].invoke
+    Rake::Task['build:docx'].invoke
+  end
 end
 
 desc 'Deploy gh-page'

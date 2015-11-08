@@ -11,18 +11,12 @@ namespace :build do
   task :docx do
     sh 'pandoc cv.md -o cv/cv.docx'
   end
-
-  desc 'Build all the CV downloadable versions'
-  task :all do
-    Rake::Task['build:html'].invoke
-    Rake::Task['build:docx'].invoke
-  end
 end
 
 desc 'Deploy gh-page'
 task :deploy do
   sh 'git checkout gh-pages'
-  sh 'git merge origin/master'
+  sh 'git merge origin/master -m "Merge remote origin/master on gh-pages"'
   Rake::Task['build:html'].invoke
   sh 'rm index.html' if File.exists? 'index.html'
   sh 'cp cv/cv.html index.html'

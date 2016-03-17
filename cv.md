@@ -22,7 +22,7 @@ Assisting organizations of all sizes, from startups to enterprise agencies, in d
 
 - [Itty Bitty Apps](http://www.ittybittyapps.com/), mobile agency. Reference: [Sean Woodhouse](mailto:sean@ittybittyapps.com), Managing Director
 - [jTribe](http://jtribe.com.au/), mobile agency. Reference: [Armin Kroll](mailto:armin@jtribe.com.au), CEO
-- [Domestic Cat](http://domesticcat.com.au/), mobile agency. Reference: [Patrick Richards](pat@domesticcat.com.au)
+- [Domestic Cat](http://domesticcat.com.au/), mobile agency. Reference: [Patrick Richards](mailto:pat@domesticcat.com.au)
 - [Odecee](http://odecee.com.au/), enterprise agency. Reference: [Ashton Williams](mailto:ajwilliams@odecee.com.au), Colleague
 - [CoinJar](https://www.coinjar.com/), BitCoin startup. Reference: [Asher Tan](mailto:asher@coinjar.com), CEO
 

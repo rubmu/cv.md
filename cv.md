@@ -14,7 +14,19 @@
 
 ## Experience
 
-### iOS Consultant, specialised in testing and automated infrastructures (09/2014 - Present, Melbourne AU and remotely)
+### iOS Lead at [iflix](https://iflix.com) (09/2016 - Present, Melbourne AU)
+
+Leading the development of the iOS application for the iflix movie streaming service.
+
+Responsibilities include:
+
+- Defining the vision for the platform architecture and standards, and ensuring its development
+- Upskilling of team members in the use of the Swift programming language and TDD practices
+- Maintaining the Continuous Integration and Delivery infrastructure
+- Managing the release of new versions of the app to the App Store
+- Coordinating with product and QA teams
+
+### iOS Testing and Automation Consultant (09/2014 - Present, Melbourne AU and remotely)
 
 Assisting organizations of all sizes, from startups to enterprise agencies, in developing iOS applications, with a special focus on Test Driven Development, software architectures that allow unit testing, acceptance testing, and setup of automated infrastructures for continuous integration and deployment.
 
@@ -22,7 +34,7 @@ Assisting organizations of all sizes, from startups to enterprise agencies, in d
 
 - [Itty Bitty Apps](http://www.ittybittyapps.com/), mobile agency. Reference: [Sean Woodhouse](mailto:sean@ittybittyapps.com), Managing Director
 - [jTribe](http://jtribe.com.au/), mobile agency. Reference: [Armin Kroll](mailto:armin@jtribe.com.au), CEO
-- [Domestic Cat](http://domesticcat.com.au/), mobile agency. Reference: [Patrick Richards](mailto:pat@domesticcat.com.au)
+- [Domestic Cat](http://domesticcat.com.au/), mobile agency. Reference: [Patrick Richards](mailto:pat@domesticcat.com.au), President
 - [Odecee](http://odecee.com.au/), enterprise agency. Reference: [Ashton Williams](mailto:ajwilliams@odecee.com.au), Colleague
 - [CoinJar](https://www.coinjar.com/), BitCoin startup. Reference: [Asher Tan](mailto:asher@coinjar.com), CEO
 

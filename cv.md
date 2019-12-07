@@ -14,7 +14,7 @@
 
 ## Experience
 
-### iOS Lead at [iflix](https://iflix.com) (09/2016 - Present, Melbourne AU)
+### iOS Lead at [iflix](https://iflix.com) (2016/09 - Present, Melbourne AU)
 
 Leading the development of the iOS application for the iflix movie streaming service.
 
@@ -26,7 +26,7 @@ Responsibilities include:
 - Managing the release of new versions of the app to the App Store
 - Coordinating with product and QA teams
 
-### iOS Testing and Automation Consultant (09/2014 - Present, Melbourne AU and remotely)
+### iOS Testing and Automation Consultant (2014/09 - Present, Melbourne AU and remotely)
 
 Assisting organizations of all sizes, from startups to enterprise agencies, in developing iOS applications, with a special focus on Test Driven Development, software architectures that allow unit testing, acceptance testing, and setup of automated infrastructures for continuous integration and deployment.
 
@@ -38,7 +38,7 @@ Assisting organizations of all sizes, from startups to enterprise agencies, in d
 - [Odecee](http://odecee.com.au/), enterprise agency. Reference: [Ashton Williams](mailto:ajwilliams@odecee.com.au), Colleague
 - [CoinJar](https://www.coinjar.com/), BitCoin startup. Reference: [Asher Tan](mailto:asher@coinjar.com), CEO
 
-### iOS Lead at [BIZZBY](http://bizzby.com/) (11/2013 - 08/2014, London UK)
+### iOS Lead at [BIZZBY](http://bizzby.com/) (2013/11 - 2014/08, London UK)
 
 Maintaining the legacy codebase of the [BIZZBY iOS App](https://itunes.apple.com/gb/app/bizzby-on-demand-services/id659352778), focusing of refactoring, and adding test coverage, alongside new features development.
 
@@ -51,7 +51,7 @@ Had the chance to work on the backend as well, built on [Node.js](http://nodejs.
 - [rohan@bizzby.com](mailto:rohan@bizzby.com), Rohan Sinclair Luvagio, CEO
 - [fab@bizzby.com](mailto:fab@bizzby.com), Fabrizio Moscon, Tech Lead
 
-### iOS Developer at [Memrise](http://memrise.com/) (09/2012 - 11/2013, Londond UK)
+### iOS Developer at [Memrise](http://memrise.com/) (2012/09 - 2013/11, Londond UK)
 
 Developed from scratch the [CatSpanish by CatAcademy](https://itunes.apple.com/us/app/cat-spanish-by-catacademy/id690453731?mt=8) language learning app, mixing software engineering with game design.
 
@@ -62,7 +62,7 @@ Built a small backend for the content delivery hosted on [Heroku](https://www.he
 - [ed@memrise.com](mailto:ed@memrise.com), Ed Cooke, CEO
 - [tancredi.trugenberger@gmail.com](mailto:tancredi.trugenberger@gmail.com), Tancredi Trugenberger, Colleague
 
-### Frontend Developer at [Kunerango](https://kunerango.com/) (10/2011 - 07/2012, Ferrara IT)
+### Frontend Developer at [Kunerango](https://kunerango.com/) (2011/10 - 2012/07, Ferrara IT)
 
 Implemented the first prototype versions of [Kunerango](https://kunerango.com/), taking care mainly of the front-end side of the webapp built with [Ruby on Rails](http://rubyonrails.org/), relying on [Twitter Boostrap](http://getbootstrap.com/).
 
@@ -71,7 +71,7 @@ Implemented the first prototype versions of [Kunerango](https://kunerango.com/),
 - [mattia@kunerango.com](mailto:mattia@kunerango.com) Mattia Toso, CEO
 - [luca@kunerango.com](mailto:luca@kunerango.com) Luca Ferrari, CTO
 
-### Fullstack Developer at [OpenView](http://openview.it/index.php/cms/it/home) (03/2012 - 08/2012, Ferrara IT)
+### Fullstack Developer at [OpenView](http://openview.it/index.php/cms/it/home) (2012/03 - 2012/08, Ferrara IT)
 
 Developing rich web applications, in an Agile and TDD environment.
 
@@ -79,15 +79,13 @@ Developing rich web applications, in an Agile and TDD environment.
 
 - [cappellini@openview.it](mailto:cappellini@openview.it) Marco Cappellini, CEO
 
-### Fullstack Developer Intern at [CenTec](http://www.unife.it/tecnopolo/cento) (05/2011 - 09/2011, Ferrara IT)
+### Fullstack Developer Intern at [CenTec](http://www.unife.it/tecnopolo/cento) (2011/05 - 2011/10, Ferrara IT)
 
 Mainly worked on the development of a WebGIS application, both on the frontend and backend level, with [Symfony](http://symfony.com/), [MapFish](http://mapfish.org/), [PostgreSQL](http://postgis.net/), [PostGIS](http://postgis.net/) and [OpenLayers](http://openlayers.org/).
 
 ## Independent Work
 
-### Indie iOS and Android Developer (10/2010 - Ongoing)
-
-Released several independent apps for App Store and Google Play, taking care of design and development. The most relevant:
+Released a few apps for App Store and Google Play, taking care of design and development. The most relevant:
 
 - [Fineants](https://itunes.apple.com/au/app/fineants-saving-goals-tracker/id888444078?mt=8) iOS savings tracker
 - [World Clock Widget](https://itunes.apple.com/au/app/world-clock-widget/id963850818?mt=8) iOS today widget showing configurable world clocks

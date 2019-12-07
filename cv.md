@@ -1,4 +1,4 @@
-# Giovanni Lodi
+# Gio Lodi
 ## Software Engineer - iOS Testing and Automation Expert
 
 - Melbourne, Australia

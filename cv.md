@@ -30,13 +30,13 @@ Responsibilities include:
 
 Assisting organizations of all sizes, from startups to enterprise agencies, in developing iOS applications, with a special focus on Test Driven Development, software architectures that allow unit testing, acceptance testing, and setup of automated infrastructures for continuous integration and deployment.
 
-#### Top Clients
+#### Clients Highlights
 
 - [Itty Bitty Apps](http://www.ittybittyapps.com/), mobile agency. Reference: [Sean Woodhouse](mailto:sean@ittybittyapps.com), Managing Director
 - [jTribe](http://jtribe.com.au/), mobile agency. Reference: [Armin Kroll](mailto:armin@jtribe.com.au), CEO
 - [Domestic Cat](http://domesticcat.com.au/), mobile agency. Reference: [Patrick Richards](mailto:pat@domesticcat.com.au), President
 - [Odecee](http://odecee.com.au/), enterprise agency. Reference: [Ashton Williams](mailto:ajwilliams@odecee.com.au), Colleague
-- [CoinJar](https://www.coinjar.com/), BitCoin startup. Reference: [Asher Tan](mailto:asher@coinjar.com), CEO
+- [CoinJar](https://www.coinjar.com/), Cryptocurrency wallet. Reference: [Asher Tan](mailto:asher@coinjar.com), CEO
 
 ### iOS Lead at [BIZZBY](http://bizzby.com/) (2013/11 - 2014/08, London UK)
 

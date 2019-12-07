@@ -1,16 +1,16 @@
 # Giovanni Lodi
-## iOS Testing and Automation Consultant
+## Software Engineer - iOS Testing and Automation Expert
 
 - Melbourne, Australia
-- [giovanni.lodi42gmail.com](mailto:giovanni.lodi42+cv@gmail.com)
-- [http://giovannilodi.com](http://giovannilodi.com)
+- [gio@mokacoding.com](mailto:gio+cv@mokacoding.com)
+- [https://gio.codes](http://gio.codes)
 - +61 0467 041 198
 
 
 <!-- Need double new line to generate two lists nodes -->
 - GitHub: [mokagio](https://github.com/mokagio)
-- Twitter: [@makagio](https://twitter.com/mokagio)
-- Blog: [mokagio](http://mokacoding.com)
+- Twitter: [@mokagio](https://twitter.com/mokagio)
+- Blog: [mokacoding](http://mokacoding.com)
 
 ## Experience
 
@@ -93,7 +93,7 @@ Released several independent apps for App Store and Google Play, taking care of 
 - [World Clock Widget](https://itunes.apple.com/au/app/world-clock-widget/id963850818?mt=8) iOS today widget showing configurable world clocks
 - [My Savings Tracker](https://play.google.com/store/apps/details?id=com.risingbits.engineergio.savingstracker&hl=en) Android savings tracker
 
-Weekly blogging at [mokacoding.com](http://www.mokacoding.com), on unit testing, automation and productivity for iOS developers.
+Blogging at [mokacoding.com](http://www.mokacoding.com), on unit testing, automation and productivity for iOS developers.
 
 ## Education
 
